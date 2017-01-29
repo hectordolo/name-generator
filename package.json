@@ -1,5 +1,5 @@
 {
-  "name": "name-generator",
+  "name": "hd-name-generator",
   "version": "1.0.0",
   "description": "Get random generated names",
   "main": "src/index.js",
