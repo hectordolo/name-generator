@@ -1,0 +1,27 @@
+{
+  "name": "name-generator",
+  "version": "1.0.0",
+  "description": "Get random generated names",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectordolo/name-generator.git"
+  },
+  "keywords": [
+    "random",
+    "name",
+    "generator"
+  ],
+  "author": "Hector S. Dolo <hectordolo@gmail.com> (http://hectordolo.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hectordolo/name-generator/issues"
+  },
+  "homepage": "https://github.com/hectordolo/name-generator#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
